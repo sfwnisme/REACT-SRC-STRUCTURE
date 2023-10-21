@@ -1,0 +1,2 @@
+this folder serves the ui and small components 'buttons, texts, and inputs...', and the large 
+components 'a component contains multi ui or small components that provides a function'

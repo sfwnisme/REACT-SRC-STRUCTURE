@@ -1,0 +1,2 @@
+this folder contains the services that the application provides like multilingual ,or state management 'redux or redux toolkit'
+, and the api branches for the application

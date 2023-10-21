@@ -1,0 +1,2 @@
+this folder presents the main pages or screens for the application that the user can navigates between 
+you can also separates the folder for logged-in pages and logged-out pages even for guest's users
